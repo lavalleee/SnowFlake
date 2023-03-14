@@ -18,7 +18,7 @@ if __name__ == '__main__':
     window.geometry("640x480")
     window.resizable(width=False, height=False)
     window.title("SnowFlake")
-    bg = PhotoImage(file = "/home/lavallee/Documents/GitHubRepos/SnowFlake/SnowFlake.png")
+    bg = PhotoImage(file = "Fix")
     bgfill= Label(window, i=bg)
     bgfill.place(x=0, y=0)
 # If/Else to Determine Greeting! 
